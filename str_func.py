@@ -7,6 +7,8 @@ def letter(value):
     return total
 
 
+# minimum fix
+
 def uppercase_letter(value):
     """"capitalize word"""
     return value.capitalize()

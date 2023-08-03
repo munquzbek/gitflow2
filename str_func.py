@@ -1,5 +1,6 @@
 def letter(value):
-    """uppering !"""
+    """uppering"""
+    """wrong"""
     total = ""
     for i in value:
         if i.isupper():
